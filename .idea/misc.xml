@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Quarkus" url="file://$PROJECT_DIR$/audit-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/authentication-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/category-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/notification-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/product-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/reporting-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/revenue-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/sales-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/stock-service" />
+    <file type="Quarkus" url="file://$PROJECT_DIR$/user-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/audit-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sales-service/pom.xml" />
+        <option value="$PROJECT_DIR$/stock-service/pom.xml" />
+        <option value="$PROJECT_DIR$/product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/revenue-service/pom.xml" />
+        <option value="$PROJECT_DIR$/category-service/pom.xml" />
+        <option value="$PROJECT_DIR$/reporting-service/pom.xml" />
+        <option value="$PROJECT_DIR$/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/authentication-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
